@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n huebawt
+web: bin/hubot -a irc -n huebawt
